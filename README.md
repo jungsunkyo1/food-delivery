@@ -124,7 +124,8 @@
 
 
 ### 이벤트 도출
-![image](https://user-images.githubusercontent.com/487999/79683604-47bc0180-8266-11ea-9212-7e88c9bf9911.png)
+![스크린샷, 2021-08-16 14-34-29](https://user-images.githubusercontent.com/87056402/129515884-8325315f-c256-4f08-bacd-023741af9460.png)
+
 
 ### 부적격 이벤트 탈락
 ![image](https://user-images.githubusercontent.com/487999/79683612-4b4f8880-8266-11ea-9519-7e084524a462.png)
